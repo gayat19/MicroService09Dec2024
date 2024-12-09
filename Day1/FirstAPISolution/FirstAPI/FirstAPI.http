@@ -1,0 +1,31 @@
+@FirstAPI_HostAddress = http://localhost:5192
+
+GET {{FirstAPI_HostAddress}}/api/Employee/
+Accept: application/json
+
+###
+
+
+POST {{FirstAPI_HostAddress}}/api/employee
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Somu",
+  "age": 34,
+  "salary": 2353456346
+}
+
+###
+
+PUT {{FirstAPI_HostAddress}}/api/employee?employee_id=2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Lomu",
+  "age": 34,
+  "salary": 2.3534564E+09
+}
+
+###

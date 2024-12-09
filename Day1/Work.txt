@@ -1,0 +1,41 @@
+SOAP - Web Service - WSDL - Discovery Tool
+GetEmployeeDetails()
+HTTP - RESTful Service
+http://abc.com
+  Client-Server Architecture
+  HTTP Protocol
+  URI - Focused on the resource(https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+	Employee
+	http://abc.com/Employee - GET/PUT/POST/DELETE
+  Stateless
+	http protocol does not maintain state
+  Lightweight - Microservice Architecture
+  Data Transfer types
+	JSON, XML, text
+  Cacheable
+
+Dotnet
+C#
+
+Navigate to project folder in cmd prompt
+To compile - dotnet build 
+To execute - dotnet run
+
+POST - Creation - Create
+GET - Retrieval  - Read
+PUT - Edit/Updating - Update
+DELET - Deleting or Removal - Delete
+
+
+Using API we are going to create END POINTS
+
+Consumable by other applications
+
+Builder Design Pattern
+https://refactoring.guru/design-patterns/builder
+
+Controller -> Action methods
+Model -> Design our data
+
+  
+  
