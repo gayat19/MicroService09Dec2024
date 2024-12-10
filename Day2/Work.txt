@@ -1,0 +1,89 @@
+PUT - Edit single item
+PATCH - Edit one or few property in an object
+DELETE - Hard delete/ Soft delete
+
+Add a new Product
+Edit the price of the product
+Add a new supplier
+Add stock of a product
+Update the stock as 0
+Make an item available in stock
+Customer places an order
+Customer does payment for order
+Customer Tracks Order
+Customer changes delivery address
+
+--------------------------------------------------
+Resource/ - HTTP Verb
+
+
+If my base address is - https://abc-corp.com
+************************************************
+Add a new Product - https://abc-corp.com/Product - POST
+Edit the price of the product - https://abc-corp.com/Product/2 - PUT/PATCH
+Add a new supplier - https://abc-corp.com/Supplier - POST
+Add stock of a product - https://abc-corp.com/Product/2 - PATCH
+Update the stock as 0 - https://abc-corp.com/Product/2 - PATCH
+Make an item available in stock - https://abc-corp.com/Product/2 - PATCH
+Customer places an order - https://abc-corp.com/Order - POST
+Customer does payment for order - https://abc-corp.com/Payment - POST
+Customer Tracks Order - https://abc-corp.com/Order/101 - GET 
+Customer changes delivery address - https://abc-corp.com/Order - PUT
+
+-----------------------------------------------------
+Repository Design pattern
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
+
+---------------------------------------------------------
+C - CREATE
+R - READ
+U - UPDATE
+D - DELETE
+------------------------------------------------
+Breaking down Add a product in to actions
+
+Create a new Product object and add to the collection - CREATE
+Get the supplier details for the product added - GET
+If the supplier is new, then Create the supplier object and add it to the collection - CREATE
+If the supplier is existing then, check the status - GET
+Check the quantity and status of object to display the same. - GET
+--------------------------------------------------------------------
+
+Get
+GetById
+Update/Edit
+Delete/Remove
+Create/Add
+
+Basics of C# - https://youtube.com/playlist?list=PLTw0a6pUfCNuiVuHF4S-A-PMao-az9_5P&si=_4GcywxwPX_0jN6n
+----------------------------------------------------------------------
+
+Layered Architecture
+
+Action Method(Controller) - Takes the Request
+Service BL methods - Called by the action method or other BL method
+Repository Methods - Called by the Service BL method
+
+-----------------------------------------------------------------------
+DI
+Loose coupling between the objects
+
+
+----------------------------------------------
+LifeSpan of DI in ASP.NET Core
+
+AddSingleton
+AddScoped
+AddTransient
+-----------------------------------------------------------
+Design my Service
+Add a new Product
+Update the Product - Price, Quantity
+List all the products - Filtering + Sorting
+Delete Product - stet status to Inactive
+
+
+
+
+
+
