@@ -22,6 +22,8 @@ namespace ShoppingAPI
             builder.Services.AddScoped<IRepository<Product, int>, ProductRepository>();//Injected the Repository
 
             builder.Services.AddScoped<IProductGeneralService, ProductCustomerService>();//Injected the Service
+            builder.Services.AddScoped<IProductSupplierService, ProductSupplierService>();
+            builder.Services.AddScoped<IAuditLogService, AuditLogService>();
 
             var app = builder.Build();
 

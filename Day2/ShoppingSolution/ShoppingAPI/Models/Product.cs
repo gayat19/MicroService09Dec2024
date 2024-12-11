@@ -10,7 +10,7 @@
     {
         public int Id { get; set; }
         public string Title { get; set; } = string.Empty;
-        public decimal PricePerUnit { get; set; }
+        public float PricePerUnit { get; set; }
         public string Description { get; set; } = string.Empty;
         public int StockAvailable { get; set; }
 

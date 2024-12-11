@@ -1,0 +1,6 @@
+In the API created on Day2
+Add endpoints for Adding Employee(POST)
+Edit employee(Put request) update for employee phone number and Salary
+
+If possible add Audit logs for the changes
+

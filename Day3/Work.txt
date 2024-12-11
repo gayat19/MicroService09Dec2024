@@ -1,0 +1,8 @@
+SOLID
+S - Single responsibility
+O - Open and Closed
+L - Liskov Substitution
+I - Interface Segregation
+D - Dependency Inversion
+
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
