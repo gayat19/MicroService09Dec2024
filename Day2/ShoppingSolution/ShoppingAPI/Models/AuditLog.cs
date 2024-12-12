@@ -1,8 +1,11 @@
-﻿namespace ShoppingAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ShoppingAPI.Models
 {
     public class AuditLog :IEquatable<AuditLog>
     {
-        public int Id { get; set; }
+        [Key]
+        public int LogId { get; set; }
         public string TableName { get; set; } = string.Empty;
         public string ColumnName { get; set; } = string.Empty;
         public string OldValue { get; set; } = string.Empty;
@@ -12,7 +15,7 @@
         public bool Equals(AuditLog? other)
         {
             if (other == null) return false;
-            return Id == other.Id;
+            return LogId == other.LogId;
         }
     }
 }

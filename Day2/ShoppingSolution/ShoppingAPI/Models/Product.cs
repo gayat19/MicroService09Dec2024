@@ -8,7 +8,7 @@
     }
     public class Product : IEquatable<Product>
     {
-        public int Id { get; set; }
+        public int Id { get; set; }//By default it will be treated as primary key
         public string Title { get; set; } = string.Empty;
         public float PricePerUnit { get; set; }
         public string Description { get; set; } = string.Empty;

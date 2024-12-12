@@ -1,0 +1,14 @@
+ORM 
+EF core
+Tables - Collection - DbSet
+Tuples - Object - POCO
+Attributes - Property - C# Class Properties(base types)
+
+NuGet Package
+SQL Server - Database
+Microsoft.EntityFrameworkCore.SqlServer - 8.0.11
+
+  Microsoft.EntityFrameworkCore.Tools -8.0.11
+
+
+Server=G3SLAPTOP\\SQLEXPRESS;TrustedServerCertificate=True;Integrated Security=True;Database=dbShopping;

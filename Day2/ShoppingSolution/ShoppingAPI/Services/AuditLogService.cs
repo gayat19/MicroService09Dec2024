@@ -14,19 +14,19 @@ namespace ShoppingAPI.Services
             {
                 return 1;
             }
-            return auditLogs.Max(a => a.Id) + 1;
+            return auditLogs.Max(a => a.LogId) + 1;
         }
         public AuditLog AddAuditLog(AuditLog auditLog)
         {
             int aid = GenerateId();
-            auditLog.Id = aid;
+            auditLog.LogId = aid;
             auditLogs.Add(auditLog);
             return auditLog;
         }
 
         public bool Delete(DateTime date)
         {
-            var logs = auditLogs.Where(a => a.ModifiedAt.Date < date.Date).ToList();
+            var logs = auditLogs.Where(a => a.ModifiedAt.Date <= date.Date).ToList();
             if (logs.Count == 0)
             {
                 return false;
