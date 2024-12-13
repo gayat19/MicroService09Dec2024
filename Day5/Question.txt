@@ -1,0 +1,4 @@
+Category Model
+
+Add the relation
+Create endpoint for category and products for that category

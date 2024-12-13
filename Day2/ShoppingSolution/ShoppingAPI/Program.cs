@@ -21,19 +21,29 @@ namespace ShoppingAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            #region Mappers
+            builder.Services.AddAutoMapper(typeof(Supplier));
+            #endregion
+
+            #region Context
             builder.Services.AddDbContext<ShoppingContext>(opts =>
             {
                 opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
+            #endregion
 
+            #region Repositories
             //builder.Services.AddScoped<IRepository<Product, int>, ProductRepository>();//Injected the Repository
             builder.Services.AddScoped<IRepository<Product, int>, ProductRepositoryV2>();//Injected the Repository
             builder.Services.AddScoped<IRepository<AuditLog, int>, AuditLogRepository>();//Injected the Repository
+            #endregion
 
+            #region Services
             builder.Services.AddScoped<IProductGeneralService, ProductCustomerService>();//Injected the Service
             builder.Services.AddScoped<IProductSupplierService, ProductSupplierService>();
             //builder.Services.AddScoped<IAuditLogService, AuditLogService>();
             builder.Services.AddScoped<IAuditLogService, AutidLogServiceV2>();
+            #endregion
 
             var app = builder.Build();
 

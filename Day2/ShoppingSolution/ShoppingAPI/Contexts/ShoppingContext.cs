@@ -10,6 +10,7 @@ namespace ShoppingAPI.Contexts
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<AuditLog> AuditLogs { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -21,6 +22,13 @@ namespace ShoppingAPI.Contexts
                 new Product { Id = 104, Title = "Smart Watch", PricePerUnit = 5000, Description = "MI Smart Watch", StockAvailable = 15 } ,
                 new Product { Id = 105, Title = "Headphones", PricePerUnit = 2000, Description = "Boat Headphones", StockAvailable = 25 } 
             );
+            modelBuilder.Entity<Supplier>().HasData(
+                new Supplier { SupplierId = "S101", SupplierName = "Lenovo",ContactPerson="Ramu",Phone=9876543210 },
+                new Supplier { SupplierId = "S102", SupplierName = "Samsung", ContactPerson="Somu",Phone=8877665544 },
+                new Supplier { SupplierId = "S103", SupplierName = "Apple", ContactPerson="Bimu",Phone=7766554433},
+                new Supplier { SupplierId = "S104", SupplierName = "MI", ContactPerson="Monu",Phone=2223334445 }
+            );
+
         }
     }
 }

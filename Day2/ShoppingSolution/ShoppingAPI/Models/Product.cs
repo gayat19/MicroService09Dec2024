@@ -1,4 +1,6 @@
-﻿namespace ShoppingAPI.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ShoppingAPI.Models
 {
     public enum Status
     {
@@ -37,5 +39,9 @@
             Product p2 = other;
             return p1.Title == p2.Title;
         }
+        public string? SupplierId { get; set; }
+
+        [ForeignKey("SupplierId")]
+        public Supplier? Supplier { get; set; }//Navigation property
     }
 }

@@ -1,0 +1,13 @@
+Relation between Objects
+-----------------------------------
+Service
+  Supplier
+     Id
+     Supplier name
+     List of products
+---------------------------------------
+
+Supplier ID and name - Add Product - Model this data
+-------------------------------------------
+Interface for the service to the supplier wise products
+Implement the interface

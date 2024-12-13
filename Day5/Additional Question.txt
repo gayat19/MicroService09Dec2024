@@ -1,0 +1,6 @@
+Add Departments model
+
+And relate employee and department
+
+Add end points for adding  a new department
+Updating employee department
