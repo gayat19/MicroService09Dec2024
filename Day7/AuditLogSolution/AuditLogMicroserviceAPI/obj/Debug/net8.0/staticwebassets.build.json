@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vG9zG5Rf7NXdkNi+n2iryn0mzOxbI23yXhgRwQVuSEU=",
+  "Source": "AuditLogMicroserviceAPI",
+  "BasePath": "_content/AuditLogMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

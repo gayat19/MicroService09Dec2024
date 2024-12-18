@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\models\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\models\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\mapper\\supplierprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\mapper\\supplierprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\interfaces\\isupplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\interfaces\\isupplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|solutionrelative:shoppingapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C08FDB28-C365-47F4-8190-F955EE1F5256}|ShoppingAPI\\ShoppingAPI.csproj|d:\\corp\\rps\\this\\participants\\day2\\shoppingsolution\\shoppingapi\\models\\dtos\\supplierbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,59 +62,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SupplierProductDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Models\\DTOs\\SupplierProductDTO.cs",
+              "RelativeDocumentMoniker": "ShoppingAPI\\Models\\DTOs\\SupplierProductDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Models\\DTOs\\SupplierProductDTO.cs",
+              "RelativeToolTip": "ShoppingAPI\\Models\\DTOs\\SupplierProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:27:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Program.cs",
               "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Program.cs",
               "RelativeToolTip": "ShoppingAPI\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T05:09:26.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SupplierProfile.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Mapper\\SupplierProfile.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Mapper\\SupplierProfile.cs",
               "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Mapper\\SupplierProfile.cs",
               "RelativeToolTip": "ShoppingAPI\\Mapper\\SupplierProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T05:07:32.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SupplierProductService.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Services\\SupplierProductService.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Services\\SupplierProductService.cs",
               "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Services\\SupplierProductService.cs",
               "RelativeToolTip": "ShoppingAPI\\Services\\SupplierProductService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBQAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T04:58:09.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ISupplierProductService.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Interfaces\\ISupplierProductService.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Interfaces\\ISupplierProductService.cs",
               "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Interfaces\\ISupplierProductService.cs",
               "RelativeToolTip": "ShoppingAPI\\Interfaces\\ISupplierProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T04:56:19.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SupplierBasicDTO.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Models\\DTOs\\SupplierBasicDTO.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Models\\DTOs\\SupplierBasicDTO.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SupplierRepository.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Repositories\\SupplierRepository.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Repositories\\SupplierRepository.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Models\\Product.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Supplier.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Models\\Supplier.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20241213035325_Supplier.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Migrations\\20241213035325_Supplier.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Migrations\\20241213035325_Supplier.cs",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ShoppingContext.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day2\\ShoppingSolution\\ShoppingAPI\\Contexts\\ShoppingContext.cs",
               "RelativeDocumentMoniker": "ShoppingAPI\\Contexts\\ShoppingContext.cs",

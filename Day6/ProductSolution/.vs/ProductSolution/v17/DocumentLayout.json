@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\services\\productsupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\services\\productsupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\services\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\services\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\interfaces\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\interfaces\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\dtos\\updateproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\dtos\\updateproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\dtos\\productstockupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\dtos\\productstockupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\dtos\\productpriceupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\dtos\\productpriceupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\dtos\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\dtos\\productsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\interfaces\\iproductcommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\interfaces\\iproductcommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DF67EF-B3FA-47D5-97AD-9351D72B3F91}|ProductServiceTest\\ProductServiceTest.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productservicetest\\productrepsotorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DF67EF-B3FA-47D5-97AD-9351D72B3F91}|ProductServiceTest\\ProductServiceTest.csproj|solutionrelative:productservicetest\\productrepsotorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\contexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\contexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|d:\\corp\\rps\\this\\participants\\day6\\productsolution\\productmicroservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16CB722-85E5-450B-9540-D29D3CEBABAD}|ProductMicroService\\ProductMicroService.csproj|solutionrelative:productmicroservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLogService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\AuditLogService.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Services\\AuditLogService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\AuditLogService.cs",
+              "RelativeToolTip": "ProductMicroService\\Services\\AuditLogService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:44:56.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLogDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\AuditLogDTO.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\DTOs\\AuditLogDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\AuditLogDTO.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\DTOs\\AuditLogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:43:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuditLogService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IAuditLogService.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Interfaces\\IAuditLogService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IAuditLogService.cs",
+              "RelativeToolTip": "ProductMicroService\\Interfaces\\IAuditLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:43:14.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Program.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Program.cs",
+              "RelativeToolTip": "ProductMicroService\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:15:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductMicroService\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:04:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSupplierService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\ProductSupplierService.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Services\\ProductSupplierService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Services\\ProductSupplierService.cs",
+              "RelativeToolTip": "ProductMicroService\\Services\\ProductSupplierService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:31:30.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductPriceUpdateRequestDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductPriceUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\DTOs\\ProductPriceUpdateRequestDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductPriceUpdateRequestDTO.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\DTOs\\ProductPriceUpdateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:30:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductMicroService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:50:34.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductRequestDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\UpdateProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\DTOs\\UpdateProductRequestDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\UpdateProductRequestDTO.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\DTOs\\UpdateProductRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:53:17.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductStockUpdateRequestDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductStockUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\DTOs\\ProductStockUpdateRequestDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductStockUpdateRequestDTO.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\DTOs\\ProductStockUpdateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:29:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductMicroService\\appsettings.json",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\appsettings.json",
+              "RelativeToolTip": "ProductMicroService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T04:21:51.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ProductMicroService\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:56:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductCommonService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IProductCommonService.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Interfaces\\IProductCommonService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IProductCommonService.cs",
+              "RelativeToolTip": "ProductMicroService\\Interfaces\\IProductCommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:45:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepsotoryTest.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductServiceTest\\ProductRepsotoryTest.cs",
+              "RelativeDocumentMoniker": "ProductServiceTest\\ProductRepsotoryTest.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductServiceTest\\ProductRepsotoryTest.cs",
+              "RelativeToolTip": "ProductServiceTest\\ProductRepsotoryTest.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:20:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsRequestDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductsRequestDTO.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\DTOs\\ProductsRequestDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\DTOs\\ProductsRequestDTO.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\DTOs\\ProductsRequestDTO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:45:59.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductMicroService\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:55:35.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ProductMicroService\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:50:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Contexts\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Contexts\\ProductContext.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Contexts\\ProductContext.cs",
+              "RelativeToolTip": "ProductMicroService\\Contexts\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:31:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMicroService\\Models\\Product.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day6\\ProductSolution\\ProductMicroService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductMicroService\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:25:10.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

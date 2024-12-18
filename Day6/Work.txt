@@ -1,0 +1,41 @@
+https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/
+
+Microservice architecture
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
+Banking Application
+   1. Customer -
+   2. Accounts - 
+   3. Loans - 
+   4. Deposits - 
+   5. FedEx
+   6. Trade
+   7. Locker
+------------------------------------------------
+Products ->
+Customer
+Orders
+Supplier
+---------------------------------------------------------
+Pros -> 
+Scalability
+Modularity
+Simplicity
+
+Cons->
+Check on relational integrity
+Careful Handling transactions
+Communication between the service
+-------------------------------------------------------------
+
+Products - > add products, List products, edit product price, edit product availability
+Customer - > add customer, Edit customer
+Orders -> create order, edit order, update order status, cancel order
+Payment -> Add transaction, update transaction status
+Supplier -> Add supplier, delete supplier, edit supplier details
+------------------------------------------------------
+Communication between service
+ Direct -> Http client calls
+ Async - > Kafka, MSMQ, Circuit Breaker
+-----------------------------------------------------------
+Task - > 
+https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming

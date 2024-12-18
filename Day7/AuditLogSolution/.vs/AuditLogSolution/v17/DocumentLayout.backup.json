@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\models\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\models\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\contexts\\auditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\contexts\\auditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\services\\autidlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\services\\autidlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\interfaces\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\interfaces\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|d:\\corp\\rps\\this\\participants\\day7\\auditlogsolution\\auditlogmicroserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69920A30-3654-4F9E-9DD5-B578690E7A8E}|AuditLogMicroserviceAPI\\AuditLogMicroserviceAPI.csproj|solutionrelative:auditlogmicroserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241218063923_init.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Migrations\\20241218063923_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:39:23.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorDTO.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Models\\ErrorDTO.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Models\\ErrorDTO.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Models\\ErrorDTO.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Models\\ErrorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:34:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Controllers\\AuditController.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:33:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutidLogService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Services\\AutidLogService.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Services\\AutidLogService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Services\\AutidLogService.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Services\\AutidLogService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:05:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuditLogService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Interfaces\\IAuditLogService.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Interfaces\\IAuditLogService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Interfaces\\IAuditLogService.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Interfaces\\IAuditLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:04:53.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLogRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Repositories\\AuditLogRepository.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Repositories\\AuditLogRepository.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Repositories\\AuditLogRepository.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Repositories\\AuditLogRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:02:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:59:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:58:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Program.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Program.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:56:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditContext.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Contexts\\AuditContext.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Contexts\\AuditContext.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Contexts\\AuditContext.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Contexts\\AuditContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:56:12.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\appsettings.json",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\appsettings.json",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T05:55:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "AuditLogMicroserviceAPI\\Models\\AuditLog.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day7\\AuditLogSolution\\AuditLogMicroserviceAPI\\Models\\AuditLog.cs",
+              "RelativeToolTip": "AuditLogMicroserviceAPI\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:26:38.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

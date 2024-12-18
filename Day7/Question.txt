@@ -1,0 +1,5 @@
+Create a Employee Service that will allow you to list employees - Filter by city, age , Sort by name, age
+
+Create a Salary service which  will create a entry when a new employee is added the salary structure is registered.
+
+
