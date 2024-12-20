@@ -145,3 +145,4 @@ D:\Corp\RPS\THIS\Participants\Day6\ProductSolution\ProductMicroService\obj\Debug
 D:\Corp\RPS\THIS\Participants\Day6\ProductSolution\ProductMicroService\obj\Debug\net8.0\ProductMicroService.genruntimeconfig.cache
 D:\Corp\RPS\THIS\Participants\Day6\ProductSolution\ProductMicroService\obj\Debug\net8.0\ref\ProductMicroService.dll
 D:\Corp\RPS\THIS\Participants\Day6\ProductSolution\ProductMicroService\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Corp\RPS\THIS\Participants\Day6\ProductSolution\ProductMicroService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductMicroService.Filters;
 using ProductMicroService.Interfaces;
@@ -25,12 +26,14 @@ namespace ProductMicroService.Controllers
             return Ok(products);
         }
         [HttpPost("NewProduct")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> AddProduct(Product product)
         {
             var newProduct = await _productService.AddProduct(product);
             return Ok(newProduct);
         }
         [HttpPut]
+        [Authorize]
         public async Task<IActionResult> UpdateProduct(UpdateProductRequestDTO product)
         {
             if(product.StockUpdate != null)

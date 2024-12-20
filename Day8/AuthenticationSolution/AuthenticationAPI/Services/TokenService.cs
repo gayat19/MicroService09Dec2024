@@ -20,6 +20,7 @@ namespace AuthenticationAPI.Services
             List<Claim> claims = new List<Claim>()
             {
                 new Claim(ClaimTypes.Name, user.Username),
+                new Claim(ClaimTypes.Role, user.Role)
             };
             var symmetricSecurityKey = new SymmetricSecurityKey(_key);
             var signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256);

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|d:\\corp\\rps\\this\\participants\\day8\\authenticationsolution\\authenticationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192F04AB-EA5D-4615-B6D4-43200BA8FCB4}|AuthenticationAPI\\AuthenticationAPI.csproj|solutionrelative:authenticationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,28 +47,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Services\\TokenService.cs*",
+              "RelativeToolTip": "AuthenticationAPI\\Services\\TokenService.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:43:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\appsettings.json",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\appsettings.json",
+              "RelativeToolTip": "AuthenticationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T03:44:05.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\Services\\UserService.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "AuthenticationAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:37:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthenticationAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:09:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI\\Program.cs",
-              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Program.cs*",
-              "RelativeToolTip": "AuthenticationAPI\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBkAAAA1AAAAAAAAAA==",
+              "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Program.cs",
+              "RelativeToolTip": "AuthenticationAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T06:57:41.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ConfigController.cs",
               "DocumentMoniker": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Controllers\\ConfigController.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI\\Controllers\\ConfigController.cs",
               "ToolTip": "D:\\Corp\\RPS\\THIS\\Participants\\Day8\\AuthenticationSolution\\AuthenticationAPI\\Controllers\\ConfigController.cs",
               "RelativeToolTip": "AuthenticationAPI\\Controllers\\ConfigController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:56:23.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T06:56:23.224Z"
             }
           ]
         }

@@ -1,6 +1,8 @@
 
 using AutoMapper.Configuration.Annotations;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using ProductMicroService.Contexts;
 using ProductMicroService.Filters;
 using ProductMicroService.Interfaces;
@@ -8,6 +10,7 @@ using ProductMicroService.Models;
 using ProductMicroService.Repositories;
 using ProductMicroService.Services;
 using System.Diagnostics.CodeAnalysis;
+using System.Text;
 
 namespace ProductMicroService
 {
@@ -24,6 +27,21 @@ namespace ProductMicroService
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            #region AuthenticationFilter
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Keys:TokenKey"] ?? "")),
+                        ValidateIssuerSigningKey = true,
+                        ValidateLifetime = true,
+                        ValidateAudience = false,
+                        ValidateIssuer = false
+                    };
+                });
+            #endregion
 
             #region context
             builder.Services.AddDbContext<ProductContext>(options =>
@@ -55,6 +73,7 @@ namespace ProductMicroService
                 app.UseSwaggerUI();
             }
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 
